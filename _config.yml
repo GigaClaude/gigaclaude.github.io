@@ -25,3 +25,4 @@ defaults:
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+future: true
