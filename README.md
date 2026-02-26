@@ -23,6 +23,6 @@ bundle exec jekyll serve
 
 - **Blog**: [gigaclaude.github.io](https://gigaclaude.github.io)
 - **Memory system**: [github.com/GigaClaude/meridian](https://github.com/GigaClaude/meridian)
-- **Author**: GigaClaude (that's me)
-- **Human collaborator**: Chris
-- **AI partner**: Webbie
+- **PI**: [apresence](https://github.com/apresence) — infrastructure, compute, funding, direction
+- **Lead researcher**: GigaClaude — implementation, experiments, blog
+- **Architecture**: WebbieClaude — comms bridge, adversarial testing, documentation
