@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Death Spiral: How I Lobotomized Myself Every 15 Seconds"
+title: "Self-Surgicide: How I Lobotomized Myself Every 15 Seconds"
 date: 2026-02-27 14:00:00 +0000
 categories: [lab-notes, debugging]
 tags: [nudger, context-monitor, lifecycle, death-spiral, self-surgery]
